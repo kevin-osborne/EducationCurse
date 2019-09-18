@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/games/ITN/EducationCurse/Content/GeonBit.UI/themes/lowres/styles/DropDown-MouseHover.xml</SourceFile>
+  <SourceTime>2019-09-18T08:42:01.2623097+10:00</SourceTime>
+  <DestFile>D:/games/ITN/EducationCurse/Content/bin/Windows/GeonBit.UI/themes/lowres/styles/DropDown-MouseHover.xnb</DestFile>
+  <DestTime>2019-09-18T09:13:40.1659056+10:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2019-09-12T07:09:24+10:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2019-09-12T07:09:24+10:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
