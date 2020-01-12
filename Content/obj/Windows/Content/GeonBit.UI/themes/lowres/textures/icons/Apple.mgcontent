@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/games/ITN/EducationCurse/Content/GeonBit.UI/themes/lowres/textures/icons/Apple.png</SourceFile>
-  <SourceTime>2019-09-18T08:41:59.2878614+10:00</SourceTime>
-  <DestFile>D:/games/ITN/EducationCurse/Content/bin/Windows/Content/GeonBit.UI/themes/lowres/textures/icons/Apple.xnb</DestFile>
-  <DestTime>2019-09-18T09:21:47.7171329+10:00</DestTime>
+  <SourceFile>C:/dev/ec/Content/GeonBit.UI/themes/lowres/textures/icons/Apple.png</SourceFile>
+  <SourceTime>2020-01-11T22:52:31.5168164+10:00</SourceTime>
+  <DestFile>C:/dev/ec/Content/bin/Windows/Content/GeonBit.UI/themes/lowres/textures/icons/Apple.xnb</DestFile>
+  <DestTime>2020-01-12T17:16:22.5202098+10:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2019-09-12T07:09:24+10:00</ImporterTime>
+  <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2019-09-12T07:09:24+10:00</ProcessorTime>
+  <ProcessorTime>2018-12-09T02:35:54+10:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

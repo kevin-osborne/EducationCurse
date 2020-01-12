@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/games/ITN/EducationCurse/Content/montserrat-32.fnt</SourceFile>
-  <SourceTime>2019-09-06T21:37:26+10:00</SourceTime>
-  <DestFile>D:/games/ITN/EducationCurse/Content/bin/Windows/montserrat-32.xnb</DestFile>
-  <DestTime>2019-09-18T09:13:44.9787842+10:00</DestTime>
+  <SourceFile>C:/dev/ec/Content/montserrat-32.fnt</SourceFile>
+  <SourceTime>2020-01-11T22:52:51.5018193+10:00</SourceTime>
+  <DestFile>C:/dev/ec/Content/bin/Windows/montserrat-32.xnb</DestFile>
+  <DestTime>2020-01-11T23:11:26.528259+10:00</DestTime>
   <Importer>BitmapFontImporter</Importer>
   <ImporterTime>2018-05-23T11:26:24+10:00</ImporterTime>
   <Processor>BitmapFontProcessor</Processor>

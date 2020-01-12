@@ -18,9 +18,10 @@ namespace EducationCurse.Windows
 
         private Texture2D _background;
         private BitmapFont _bitmapFont;
-        private FieldScreen _fieldScreen;
-
         public KeyboardState KeyboardState { get; private set; }
+
+        private FieldScreen _fieldScreen;
+        private IsometricScreen _isometricScreen;
         public CreditsScreen CreditsScreen { get; private set; }
         public CaveScreen1 CaveScreen1 { get; private set; }
         public CaveScreen2 CaveScreen2 { get; private set; }
@@ -46,6 +47,10 @@ namespace EducationCurse.Windows
             _fieldScreen = new FieldScreen(this, Content, _graphics);
             screenGameComponent.Register(_fieldScreen);
             _fieldScreen.Hide();
+
+            _isometricScreen = new IsometricScreen(this, Content, _graphics);
+            screenGameComponent.Register(_isometricScreen);
+            _isometricScreen.Hide();
 
             this.CreditsScreen = new CreditsScreen(Content);
             screenGameComponent.Register(this.CreditsScreen);
@@ -104,6 +109,9 @@ namespace EducationCurse.Windows
 
             if (Keyboard.GetState().IsKeyDown(Keys.C))
                 _fieldScreen.Show();
+
+            if (Keyboard.GetState().IsKeyDown(Keys.I))
+                _isometricScreen.Show();
 
             // TODO: Add your update logic here
 

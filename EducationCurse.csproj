@@ -88,6 +88,7 @@
     <Compile Include="Screens\CaveScreen2.cs" />
     <Compile Include="Screens\CaveScreen1.cs" />
     <Compile Include="Screens\CreditsScreen.cs" />
+    <Compile Include="Screens\IsometricScreen.cs" />
     <Compile Include="Screens\FieldScreen.cs" />
   </ItemGroup>
   <ItemGroup>

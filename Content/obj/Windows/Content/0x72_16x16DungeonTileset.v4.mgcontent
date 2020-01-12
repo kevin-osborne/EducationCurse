@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/games/ITN/EducationCurse/Content/0x72_16x16DungeonTileset.v4.png</SourceFile>
-  <SourceTime>2019-09-06T21:37:26+10:00</SourceTime>
-  <DestFile>D:/games/ITN/EducationCurse/Content/bin/Windows/Content/0x72_16x16DungeonTileset.v4.xnb</DestFile>
-  <DestTime>2019-09-17T15:43:43.6686199+10:00</DestTime>
+  <SourceFile>C:/dev/ec/Content/0x72_16x16DungeonTileset.v4.png</SourceFile>
+  <SourceTime>2020-01-11T22:52:31.1105367+10:00</SourceTime>
+  <DestFile>C:/dev/ec/Content/bin/Windows/Content/0x72_16x16DungeonTileset.v4.xnb</DestFile>
+  <DestTime>2020-01-11T22:56:59.127514+10:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2019-09-12T07:09:24+10:00</ImporterTime>
+  <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2019-09-12T07:09:24+10:00</ProcessorTime>
+  <ProcessorTime>2018-12-09T02:35:54+10:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>
