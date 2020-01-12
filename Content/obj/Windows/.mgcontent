@@ -7,6 +7,7 @@
     <File>C:/dev/ec/Content/0x72_16x16DungeonTileset.v4.png</File>
     <File>C:/dev/ec/Content/Admin Archer.png</File>
     <File>C:/dev/ec/Content/Admin Tab.png</File>
+    <File>C:/dev/ec/Content/basic_ground_tiles.png</File>
     <File>C:/dev/ec/Content/Battle Field.jpg</File>
     <File>C:/dev/ec/Content/Battle Tab.png</File>
     <File>C:/dev/ec/Content/Battle.jpg</File>
@@ -602,6 +603,7 @@
     <File>C:/dev/ec/Content/GeonBit.UI/themes/lowres/textures/white_texture.png</File>
     <File>C:/dev/ec/Content/GeonBit.UI/themes/lowres/ThemeData.xml</File>
     <File>C:/dev/ec/Content/gurk.png</File>
+    <File>C:/dev/ec/Content/isometric.tmx</File>
     <File>C:/dev/ec/Content/montserrat-32.fnt</File>
     <File>C:/dev/ec/Content/montserrat-32_0.png</File>
     <File>C:/dev/ec/Content/Student Gear Tab.png</File>
@@ -611,6 +613,8 @@
     <File>C:/dev/ec/Content/Teacher Tab.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

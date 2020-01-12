@@ -2,6 +2,7 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "C:/dev/ec/Content/0x72_16x16DungeonTileset.v4.png","C:/dev/ec/Content/bin/Windows/Content/0x72_16x16DungeonTileset.v4.xnb","TextureProcessor","Texture2DContent",22495,278613,2.501275
 "C:/dev/ec/Content/Admin Archer.png","C:/dev/ec/Content/bin/Windows/Content/Admin Archer.xnb","TextureProcessor","Texture2DContent",3055,1048661,0.0601808
 "C:/dev/ec/Content/Admin Tab.png","C:/dev/ec/Content/bin/Windows/Content/Admin Tab.xnb","TextureProcessor","Texture2DContent",913150,8570965,0.2518342
+"C:/dev/ec/Content/basic_ground_tiles.png","C:/dev/ec/Content/bin/Windows/Content/basic_ground_tiles.xnb","TextureProcessor","Texture2DContent",75751,3670101,0.2488241
 "C:/dev/ec/Content/Battle Field.jpg","C:/dev/ec/Content/bin/Windows/Content/Battle Field.xnb","TextureProcessor","Texture2DContent",885204,9331285,0.3378268
 "C:/dev/ec/Content/Battle Tab.png","C:/dev/ec/Content/bin/Windows/Content/Battle Tab.xnb","TextureProcessor","Texture2DContent",1042839,8570965,0.2428042
 "C:/dev/ec/Content/Battle.jpg","C:/dev/ec/Content/bin/Windows/Content/Battle.xnb","TextureProcessor","Texture2DContent",2125944,9331285,0.7449688
@@ -597,6 +598,7 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "C:/dev/ec/Content/GeonBit.UI/themes/lowres/textures/white_texture.png","C:/dev/ec/Content/bin/Windows/Content/GeonBit.UI/themes/lowres/textures/white_texture.xnb","TextureProcessor","Texture2DContent",17261,1109,0.028065
 "C:/dev/ec/Content/GeonBit.UI/themes/lowres/ThemeData.xml","C:/dev/ec/Content/bin/Windows/Content/GeonBit.UI/themes/lowres/ThemeData.xnb","PassThroughProcessor","ThemeSettings",923,790,0.0626284
 "C:/dev/ec/Content/gurk.png","C:/dev/ec/Content/bin/Windows/Content/gurk.xnb","TextureProcessor","Texture2DContent",132413,442965,0.032107
+"C:/dev/ec/Content/isometric.tmx","C:/dev/ec/Content/bin/Windows/Content/isometric.xnb","TiledMapProcessor","TiledMapContent",4353,9762,0.1744327
 "C:/dev/ec/Content/montserrat-32.fnt","C:/dev/ec/Content/bin/Windows/Content/montserrat-32.xnb","BitmapFontProcessor","BitmapFontProcessorResult",23878,6343,0.2281315
 "C:/dev/ec/Content/montserrat-32_0.png","C:/dev/ec/Content/bin/Windows/Content/montserrat-32_0.xnb","TextureProcessor","Texture2DContent",10313,262229,0.0200669
 "C:/dev/ec/Content/Student Gear Tab.png","C:/dev/ec/Content/bin/Windows/Content/Student Gear Tab.xnb","TextureProcessor","Texture2DContent",953149,8570965,0.3029738
